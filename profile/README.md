@@ -5,7 +5,9 @@
 
   <br/>
 
-  ### 🏠 [서비스 바로가기](https://www.knu80th.shop/)
+  <p align="center">
+    <a href="https://www.knu80th.shop/"><b>🏠 서비스 바로가기</b></a>
+  </p>
 </div>
 
 ---
@@ -36,32 +38,33 @@
 
 <div align="center">
 
-### 🎭 공연 및 이벤트 정보 제공
-공연과 이벤트의 **시간과 장소 정보**를 실시간으로 제공합니다.
+<br/>
+<b>🎭 공연 및 이벤트 정보 제공</b><br/>
+공연과 이벤트의 <b>시간과 장소 정보</b>를 실시간으로 제공합니다.
 <img width="65%" alt="공연 및 이벤트" src="https://github.com/user-attachments/assets/870027bf-7204-45d9-ac90-4fe42d5f3853" />
 
-<br/>
+<br/><br/><br/>
 
-### 📢 공지 및 분실물 정보 제공
-가두모집 행사 관련 **주요 공지사항과 분실물 정보**를 빠르게 확인할 수 있습니다.
+<b>📢 공지 및 분실물 정보 제공</b><br/>
+가두모집 행사 관련 <b>주요 공지사항과 분실물 정보</b>를 빠르게 확인할 수 있습니다.
 <img width="65%" alt="공지 및 분실물" src="https://github.com/user-attachments/assets/71d50463-96fa-4dd5-b53c-02ad6178ccc3" />
 
-<br/>
+<br/><br/><br/>
 
-### 🔍 동아리 검색하기
-**지도와 검색 기능**을 통해 내가 원하는 동아리 정보를 쉽게 찾을 수 있습니다.
+<b>🔍 동아리 검색하기</b><br/>
+<b>지도와 검색 기능</b>을 통해 내가 원하는 동아리 정보를 쉽게 찾을 수 있습니다.
 <img width="65%" alt="동아리 검색" src="https://github.com/user-attachments/assets/1f7869b6-21d8-477f-a060-dbdbf684eaaa" />
 
-<br/>
+<br/><br/><br/>
 
-### 📝 동아리 지원하기
-복잡한 절차 없이 클릭 몇 번으로 **관심 있는 동아리에 바로 지원**하세요.
+<b>📝 동아리 지원하기</b><br/>
+복잡한 절차 없이 클릭 몇 번으로 <b>관심 있는 동아리에 바로 지원</b>하세요.
 <img width="65%" alt="동아리 지원" src="https://github.com/user-attachments/assets/de7b9a13-4eea-46db-8e02-37dfa6b2053b" />
 
-<br/>
+<br/><br/><br/>
 
-### 🧡 동아리 찜하기
-마음에 드는 동아리를 찜하고, **실시간 인기 동아리 순위**를 확인해 보세요.
+<b>🧡 동아리 찜하기</b><br/>
+마음에 드는 동아리를 찜하고, <b>실시간 인기 동아리 순위</b>를 확인해 보세요.
 <img width="65%" alt="동아리 찜하기" src="https://github.com/user-attachments/assets/4ce85176-04b1-4314-b11b-3d9dd85a6b58" />
 
 </div>

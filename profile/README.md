@@ -45,7 +45,7 @@
 
 <b>📢 공지 및 분실물 정보 제공</b><br/>
 가두모집 행사 관련 <b>주요 공지사항과 분실물 정보</b>를 빠르게 확인할 수 있습니다.
-<img width="65%" alt="공지 및 분실물" src="https://github.com/user-attachments/assets/71d50463-96fa-4dd5-b53c-02ad6178ccc3" />
+<img width="65%" alt="공지 및 분실물" src="https://github.com/user-attachments/assets/0cd706cf-713e-49e2-afe3-125ad07b445d" />
 
 <br/><br/><br/>
 
